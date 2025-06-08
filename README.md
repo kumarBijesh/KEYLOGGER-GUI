@@ -1,0 +1,1 @@
+Basic keylogger working on advanced version so its works like a worm or if parent wants to see what there children see on internet or phone so they can directly intall this app to there children phone and also got message or summary what their children do on their phone 
